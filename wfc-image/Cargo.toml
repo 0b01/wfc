@@ -18,7 +18,7 @@ grid_2d = "0.12"
 rand = "0.6"
 
 [dev-dependencies]
-rand_xorshift = "0.1"
+rand_xorshift = "0.2"
 simon = "0.2"
 pixel_grid = "0.5"
 hashbrown = "0.1"
