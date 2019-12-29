@@ -12,7 +12,7 @@ documentation = "https://docs.rs/wfc"
 
 [dependencies]
 rand = "0.6"
-hashbrown = "0.1"
+hashbrown = "0.6"
 coord_2d = "0.2"
 grid_2d = "0.12"
 direction = "0.17"
