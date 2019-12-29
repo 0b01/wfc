@@ -12,7 +12,7 @@ documentation = "https://docs.rs/wfc_image"
 
 [dependencies]
 wfc = { path = "../wfc", version = "0.8" }
-image = "0.21"
+image = "0.22"
 coord_2d = "0.2"
 grid_2d = "0.12"
 rand = "0.6"
